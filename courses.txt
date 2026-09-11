@@ -1,0 +1,6 @@
+Digital Analog and Circuits - SEH300
+Engineering Attributes II - BSA200
+Introduction To Software Engineering - SED500
+Principles of GUI Design and Programming - BTH545
+Software Project Management - BTS535
+System Requirement Engineering - SEE500
